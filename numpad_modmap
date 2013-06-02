@@ -1,4 +1,4 @@
-# remap numpad keys to work regardless of Fn key
+! remap numpad keys to work regardless of Fn key
 keycode 79 = Home NoSymbol
 keycode 87 = End NoSymbol
 keycode 81 = Prior NoSymbol
